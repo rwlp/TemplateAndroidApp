@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/button_home_bottombar"
+        android:icon="@drawable/baseline_home_24"
+        android:title="@string/name_menu_home_bottombar" />
+
+    <item android:id="@+id/button_content_bottombar"
+        android:title="@string/name_menu_content_bottombar"
+        android:icon="@drawable/baseline_ondemand_video_24"/>
+
+    <item android:id="@+id/button_senddata_bottombar"
+        android:title="@string/name_menu_senddata_bottombar"
+        android:icon="@drawable/baseline_perm_contact_calendar_24"/>
+
+    <item android:id="@+id/button_donate_bottombar"
+        android:title="@string/name_menu_donate_bottombar"
+        android:icon="@drawable/baseline_handshake_24"/>
+
+    <item android:id="@+id/button_moremenu_bottombar"
+        android:title="@string/name_menu_moremenu_bottombar"
+        android:icon="@drawable/baseline_menu_24"/>
+</menu>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TemplateAndroid</string>
+    <string name="logo_image_description">Logo Image App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_menu_home_bottombar">Home</string>
+    <string name="name_menu_content_bottombar">Videos</string>
+    <string name="name_menu_senddata_bottombar">Cadastro</string>
+    <string name="name_menu_donate_bottombar">Donate</string>
+    <string name="name_menu_moremenu_bottombar">More</string>
+    <string name="hello_content_fragment">Content Fragment!</string>
+    <string name="hello_donate_fragment">Hello Donate Fragment</string>
+    <string name="hello_home_fragment">Hello Home Fragment</string>
+    <string name="hello_more_fragment">Hello More Fragment</string>
+    <string name="hello_senddata_fragment">Hello SendData Fragment</string>
+    <string name="navigation_drawer_open">Open Menu</string>
+    <string name="navigation_drawer_close">Close Menu</string>
+</resources>
