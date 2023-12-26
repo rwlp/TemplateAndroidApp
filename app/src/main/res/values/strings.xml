@@ -15,4 +15,5 @@
     <string name="hello_senddata_fragment">Hello SendData Fragment</string>
     <string name="navigation_drawer_open">Open Menu</string>
     <string name="navigation_drawer_close">Close Menu</string>
+    <string name="titleRecyclerView">RecyclerView Impl</string>
 </resources>
